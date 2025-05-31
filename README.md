@@ -1,6 +1,6 @@
 # DarkWeb-Spy
 
-**DarkWeb-Spy** is a Python-based crawler tool designed to explore and gather open-source intelligence (OSINT) from `.onion` websites on the Tor network. It is primarily intended for cybersecurity analysts, law enforcement, and researchers working in threat intelligence or dark web monitoring.
+**WebSpy** is a Python-based crawler tool designed to explore and gather open-source intelligence (OSINT) from `.onion` websites on the Tor network. It is primarily intended for cybersecurity analysts, law enforcement, and researchers working in threat intelligence or dark web monitoring.
 
 ---
 
@@ -10,7 +10,6 @@
 - Crawls and indexes `.onion` domains
 - Extracts metadata, keywords, and sentiment
 - Filters pages using custom threat terms
-- Outputs clean and structured data in JSON or CSV
 - Supports natural language processing with TextBlob and NLTK
 
 ---
