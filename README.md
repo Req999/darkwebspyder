@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/e6f3a006-86a8-4bb0-82dc-b077237e2a16)
+
 # DarkWeb-Spy
 
 **WebSpy** is a Python-based crawler tool designed to explore and gather open-source intelligence (OSINT) from `.onion` websites on the Tor network. It is primarily intended for cybersecurity analysts, law enforcement, and researchers working in threat intelligence or dark web monitoring.
