@@ -16,6 +16,8 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/58f67442-d760-46c4-8b92-a6442d102dac)
+
 ## 🛠️ Requirements
 
 - Python 3.8 or higher
@@ -27,5 +29,3 @@ Install dependencies with:
 -pip install -r requirements.txt
 
 -python3 WebSpy.py -q "Query"
-
-![Image](https://github.com/user-attachments/assets/58f67442-d760-46c4-8b92-a6442d102dac)
